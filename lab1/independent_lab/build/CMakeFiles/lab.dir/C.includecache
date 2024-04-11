@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/oshw/lab/lab1/independent_lab/lab.c
+sys/types.h
+-
+wait.h
+-
+unistd.h
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+

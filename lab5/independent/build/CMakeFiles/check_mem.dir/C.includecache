@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/check_mem.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+

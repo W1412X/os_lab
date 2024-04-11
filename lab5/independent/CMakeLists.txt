@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(Solve)
+add_executable(worker worker.c)
+add_executable(enter enter.c)
+add_executable(check_mem check_mem.c)

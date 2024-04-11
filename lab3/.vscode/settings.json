@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "fcntl.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/wangxv/Files/hw/oshw/lab/lab3/example"
+}

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/oshw/lab/lab2/example/ppipe/ppipe.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+

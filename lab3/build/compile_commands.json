@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wangxv/Files/hw/oshw/lab/lab3/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/main.dir/main.c.o   -c /home/wangxv/Files/hw/oshw/lab/lab3/example/main.c",
+  "file": "/home/wangxv/Files/hw/oshw/lab/lab3/example/main.c"
+}
+]

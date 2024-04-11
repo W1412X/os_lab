@@ -1,0 +1,1 @@
+/bin/cc   -rdynamic CMakeFiles/worker.dir/worker.c.o  -o worker 

@@ -1,0 +1,3 @@
+/home/wangxv/Files/hw/oshw/lab/lab3/independent/build/CMakeFiles/rebuild_cache.dir
+/home/wangxv/Files/hw/oshw/lab/lab3/independent/build/CMakeFiles/edit_cache.dir
+/home/wangxv/Files/hw/oshw/lab/lab3/independent/build/CMakeFiles/main.dir

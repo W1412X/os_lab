@@ -1,0 +1,5 @@
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/build/CMakeFiles/rebuild_cache.dir
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/build/CMakeFiles/edit_cache.dir
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/build/CMakeFiles/check_mem.dir
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/build/CMakeFiles/enter.dir
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/build/CMakeFiles/worker.dir

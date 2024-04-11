@@ -1,0 +1,1 @@
+/usr/bin/gcc -g  -rdynamic CMakeFiles/main.dir/main.c.o  -o main  -lcurses -lform -lreadline 

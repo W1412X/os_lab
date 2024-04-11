@@ -1,0 +1,1 @@
+/bin/cc   -rdynamic CMakeFiles/ppipe.dir/ppipe.c.o  -o ppipe  -lpthread 

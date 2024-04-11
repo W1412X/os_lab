@@ -1,0 +1,2 @@
+/bin/ar qc libmipc.a  CMakeFiles/mipc.dir/mipc.c.o
+/bin/ranlib libmipc.a

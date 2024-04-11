@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/oshw/lab/lab1/example/pctl.c
+/home/wangxv/Files/hw/oshw/lab/lab1/example/pctl.h
+-
+
+/home/wangxv/Files/hw/oshw/lab/lab1/example/pctl.h
+sys/types.h
+-
+wait.h
+-
+unistd.h
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+

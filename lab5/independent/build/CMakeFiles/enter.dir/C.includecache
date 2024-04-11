@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/enter.c
+mipc.h
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/mipc.h
+
+/home/wangxv/Files/hw/oshw/lab/lab5/independent/mipc.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+sys/sem.h
+-
+sys/msg.h
+-
+errno.h
+-
+
